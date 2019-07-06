@@ -1,7 +1,0 @@
-import datetime
-data_inicial = float(input("Digite aqui a data inicial: "))
-data_final = float(input("Digite aqui a data final: "))
-
-dias = data_inicial - data_final
-
-print("este é o resultado em dias",dias)
