@@ -1,0 +1,6 @@
+#F.U.P em python para concatenar uma lista de strings
+
+separator = ' '
+array = ['1', '2', '3', '4', '5', '6', '7']
+result = [separator.join(array)]
+print(result)
